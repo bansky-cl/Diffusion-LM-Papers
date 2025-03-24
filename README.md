@@ -1,12 +1,13 @@
 ## Diffusion-LM-Papers
 
 
-- I'm happy to see so many people showing interest in this field. At the moment, we've read and gathered hundreds of articles. If you find any mistakes or have additional information, you can contact the author by [E-mail](cxy1365@163.com) and I will take the time to update the information.
+- I'm happy to see so many people showing interest in this field. At the moment, we've read and gathered hundreds of articles. If you find any mistakes or have additional information, you can contact the author by [E-mail](mailto:cxy1365@163.com) and I will take the time to update the information.
 
-## Last updated: 2025-02-28
+## Last updated: 2025-03-24
 
 | id       | Method          | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------- |
+| 111 |  | 2025.2 | Kim |  |  | [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/abs/2502.06768) |
 | 110 | EdiText | 2025.2 | Lee |  |  | [EdiText: Controllable Coarse-to-Fine Text Editing with Diffusion Language Models](https://arxiv.org/abs/2502.19765) |
 | 109 | TESS 2 | 2025.2 | Tae | [github](https://github.com/hamishivi/tess-2) |  | [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917) |
 | 108 | LLaDA | 2025.2 | Nie | [github](https://github.com/ML-GSAI/LLaDA) |  | [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) |
